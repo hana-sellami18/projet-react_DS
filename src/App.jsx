@@ -21,7 +21,7 @@ import AdminSettings from './components/Admin/Settings';
 import ProtectedRoute from './components/Admin/ProtectedRoute';
 import Logout from './components/Auth/Logout.jsx';
 // Correct
-import Login from './components/Auth/Login.jsx';
+import Login from './components/Auth/login.jsx';
 import AdminFormSubmissions from './components/Admin/AdminFormSubmissions.jsx';
 
 // 404
