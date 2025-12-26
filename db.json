@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "21POS - Gestion de point de vente",
+      "description": "Application mobile et web pour la gestion des ventes et du stock.",
+      "techStack": [
+        "React",
+        "Node.js",
+        "MySQL"
+      ],
+      "githubUrl": "https://github.com/ton-compte/21pos",
+      "liveUrl": "https://21pos.tn",
+      "status": "online"
+    },
+    {
+      "id": "2",
+      "title": "Portfolio 3D Architecture",
+      "description": "Visualisation 3D de façades et d'intérieurs pour clients immobiliers.",
+      "techStack": [
+        "React",
+        "Three.js"
+      ],
+      "githubUrl": "https://github.com/ton-compte/archi-3d",
+      "liveUrl": null,
+      "status": "in-progress"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@21c-digital.com",
+      "password": "admin123",
+      "name": "Admin 21C",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@21c-digital.com",
+      "password": "user123",
+      "name": "User 21C",
+      "role": "user"
+    }
+  ],
+  "formSubmissions": [
+    {
+      "id": "8a48",
+      "name": "HANAAAAAAAAA",
+      "email": "hana.sellami@iit.ens.tn",
+      "message": "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+      "status": "done",
+      "date": "2025-12-25T22:28:18.955Z"
+    },
+    {
+      "id": "48fb",
+      "name": "hana sellami",
+      "email": "hanasellami1@gmail.com",
+      "message": "KKKKKKKKKK",
+      "status": "nouveau",
+      "date": "2025-12-26T11:32:59.525Z"
+    },
+    {
+      "id": "7cc6",
+      "name": "hana sellami",
+      "email": "hanasellami2004@gmail.com",
+      "message": "HHHHHHHHHHHHHHHHHHHH",
+      "status": "in-progress",
+      "date": "2025-12-26T12:47:25.136Z"
+    },
+    {
+      "id": "81c6",
+      "name": "YYYYYYYYYYYY",
+      "email": "ismailsellami700@gmail.com",
+      "message": "BONJOUR",
+      "status": "in-progress",
+      "date": "2025-12-26T12:48:58.095Z"
+    },
+    {
+      "id": "b9bf",
+      "name": "HHHHHHHHHHHH",
+      "email": "hanasellami18@gmail.com",
+      "message": "HHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+      "status": "in-progress",
+      "date": "2025-12-26T13:18:04.700Z"
+    }
+  ]
+}
